@@ -36,4 +36,4 @@ To contribute code, fork the repository and create a new branch with your change
 
 ## License
 
-MCUKernel is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+MCUKernel is licensed under the MIT License. See [LICENSE](Licence) for more information.
